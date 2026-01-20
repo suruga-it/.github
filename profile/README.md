@@ -1,1 +1,1 @@
-[infomation here!](https://github.com/suruga-it/information)
+[information here!](https://github.com/suruga-it/information)
